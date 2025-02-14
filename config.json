@@ -1,0 +1,12 @@
+{
+    "colors": {
+        "background": "#FFFFFF",
+        "button": "#0078D7",
+        "button_text": "#FFFFFF",
+        "chat_history_background": "#F0F0F0",
+        "chat_history_border": "#CCCCCC",
+        "user_input_background": "#FFFFFF",
+        "user_input_border": "#CCCCCC"
+    },
+    "stream_mode": false
+}
